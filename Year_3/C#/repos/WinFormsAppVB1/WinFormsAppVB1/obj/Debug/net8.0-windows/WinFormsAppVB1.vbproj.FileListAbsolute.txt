@@ -1,0 +1,16 @@
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\bin\Debug\net8.0-windows\WinFormsAppVB1.exe
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\bin\Debug\net8.0-windows\WinFormsAppVB1.deps.json
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\bin\Debug\net8.0-windows\WinFormsAppVB1.runtimeconfig.json
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\bin\Debug\net8.0-windows\WinFormsAppVB1.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\bin\Debug\net8.0-windows\WinFormsAppVB1.pdb
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.Form1.resources
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.vbproj.GenerateResource.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.GeneratedMSBuildEditorConfig.editorconfig
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.AssemblyInfoInputs.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.AssemblyInfo.vb
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.vbproj.CoreCompileInputs.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\refint\WinFormsAppVB1.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.pdb
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\WinFormsAppVB1.genruntimeconfig.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinFormsAppVB1\WinFormsAppVB1\obj\Debug\net8.0-windows\ref\WinFormsAppVB1.dll
