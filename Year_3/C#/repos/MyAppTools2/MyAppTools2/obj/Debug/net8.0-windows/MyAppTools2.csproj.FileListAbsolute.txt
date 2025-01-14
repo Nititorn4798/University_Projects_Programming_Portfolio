@@ -1,0 +1,16 @@
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\bin\Debug\net8.0-windows\MyAppTools2.exe
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\bin\Debug\net8.0-windows\MyAppTools2.deps.json
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\bin\Debug\net8.0-windows\MyAppTools2.runtimeconfig.json
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\bin\Debug\net8.0-windows\MyAppTools2.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\bin\Debug\net8.0-windows\MyAppTools2.pdb
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.MyAppTools.resources
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.csproj.GenerateResource.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.GeneratedMSBuildEditorConfig.editorconfig
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.AssemblyInfoInputs.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.AssemblyInfo.cs
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.csproj.CoreCompileInputs.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\refint\MyAppTools2.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.pdb
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\MyAppTools2.genruntimeconfig.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\MyAppTools2\MyAppTools2\obj\Debug\net8.0-windows\ref\MyAppTools2.dll
