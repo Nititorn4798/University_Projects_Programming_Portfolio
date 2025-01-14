@@ -1,0 +1,45 @@
+* {
+    font-family: 'Kanit', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ct {
+    text-align: center;
+}
+
+.ctp {
+    display: block;
+    margin: 0 auto;
+}
+
+.ctxx {
+    margin: 0 auto;
+}
+
+.ptc {
+    object-fit: cover;
+}
+
+.ctprd {
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+#tb1 {
+    border-radius: 10px;
+}
+
+#video1 {
+    display: block;
+    width: 55vw;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+#name1 {
+    color: blue;
+}
