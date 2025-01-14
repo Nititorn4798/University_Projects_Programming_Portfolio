@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-06 01:46:57 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMTo0Mjo0OSBQTTsyNzU0"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMTo0Njo1NyBQTTsyOzI4NjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="iA, iB, iC, avgV" type="Real" array="False" size=""/>
+            <output expression="&quot;Input Value A : &quot;" newline="True"/>
+            <input variable="iA"/>
+            <output expression="&quot;Input Value B : &quot;" newline="True"/>
+            <input variable="iB"/>
+            <output expression="&quot;Input Value C : &quot;" newline="True"/>
+            <input variable="iC"/>
+            <assign variable="avgV" expression="(iA + iB + iC) / 3"/>
+            <output expression="&quot;Average is : &quot; &amp; avgV" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

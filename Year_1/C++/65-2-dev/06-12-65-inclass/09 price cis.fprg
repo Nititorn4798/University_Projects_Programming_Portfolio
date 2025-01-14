@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-06 03:00:08 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMjoxNTo0OCBQTTsyNzU0"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMzowMDowOCBQTTszOzI4NTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="fPrice, tPrice, disC" type="Real" array="False" size=""/>
+            <output expression="&quot;Input Price : &quot;" newline="True"/>
+            <input variable="fPrice"/>
+            <assign variable="disC" expression="fPrice * 0.20"/>
+            <assign variable="tPrice" expression="fPrice - disC"/>
+            <output expression="&quot;Total Price = &quot; &amp; tPrice" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

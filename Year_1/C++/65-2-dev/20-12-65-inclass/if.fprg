@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="domg4"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-20 05:38:49 PM"/>
+        <attribute name="created" value="ZG9tZzQ7REVTS1RPUC1INVJCVkhOOzI1NjUtMTItMjA7MDU6MjA6NDEgUE07Mjg0Ng=="/>
+        <attribute name="edited" value="ZG9tZzQ7REVTS1RPUC1INVJCVkhOOzI1NjUtMTItMjA7MDU6Mzg6NDkgUE07MjsyOTcy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="name" type="String" array="False" size=""/>
+            <output expression="&quot;Input Your Name : &quot;" newline="True"/>
+            <input variable="name"/>
+            <if expression="Len(name) &gt; 0">
+                <then>
+                    <output expression="&quot;The length of your name is: &quot; &amp; Len(name)" newline="True"/>
+                </then>
+                <else/>
+            </if>
+            <output expression="&quot;END&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

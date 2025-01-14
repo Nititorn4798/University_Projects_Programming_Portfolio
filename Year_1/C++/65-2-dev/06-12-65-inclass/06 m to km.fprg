@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-06 02:05:40 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMTo1MToxMyBQTTsyNzQ1"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMjowNTo0MCBQTTszOzI4NTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="m, cK" type="Real" array="False" size=""/>
+            <output expression="&quot;Input Metre : &quot;" newline="True"/>
+            <input variable="m"/>
+            <assign variable="cK" expression="m / 1000"/>
+            <output expression="&quot;Kilometre = &quot; &amp; cK" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

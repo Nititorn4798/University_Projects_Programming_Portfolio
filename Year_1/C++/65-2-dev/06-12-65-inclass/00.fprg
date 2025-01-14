@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-06 01:34:10 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMTozMDo1MSBQTTsyNzQ0"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMTozNDoxMCBQTTsxOzI4NTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Salary, Vat" type="Real" array="False" size=""/>
+            <output expression="&quot;Input Salary : &quot;" newline="False"/>
+            <input variable="Salary"/>
+            <assign variable="Vat" expression="Salary * 0.07"/>
+            <output expression="&quot;Vat = &quot; &amp; Vat" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

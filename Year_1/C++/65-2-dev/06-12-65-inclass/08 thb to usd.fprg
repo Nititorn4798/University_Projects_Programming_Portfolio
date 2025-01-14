@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-06 03:37:38 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMjowOToyNCBQTTsyNzUx"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMzozNzozOCBQTTszOzI4Njg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="THB, USD" type="Real" array="False" size=""/>
+            <output expression="&quot;Input THB : &quot;" newline="True"/>
+            <input variable="THB"/>
+            <assign variable="USD" expression="THB / 35.50"/>
+            <output expression="&quot;USD = &quot; &amp; USD" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="domg4"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-20 05:12:51 PM"/>
+        <attribute name="created" value="ZG9tZzQ7REVTS1RPUC1INVJCVkhOOzI1NjUtMTItMjA7MDU6MDQ6MDEgUE07Mjg0NA=="/>
+        <attribute name="edited" value="ZG9tZzQ7REVTS1RPUC1INVJCVkhOOzI1NjUtMTItMjA7MDU6MTI6NTEgUE07MTsyOTU2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="bmi" type="Real" array="False" size=""/>
+            <output expression="&quot;Input Your BMI : &quot;" newline="True"/>
+            <input variable="bmi"/>
+            <if expression="bmi &gt;= 30">
+                <then>
+                    <output expression="&quot;You are dangerous obesity&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="bmi &lt;= 29.9 &amp;&amp; bmi &gt;= 25">
+                        <then>
+                            <output expression="&quot;You are obesity&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="bmi &lt;= 24.9 &amp;&amp; bmi &gt;= 23">
+                                <then>
+                                    <output expression="&quot;You are overweight&quot;" newline="True"/>
+                                </then>
+                                <else>
+                                    <if expression="bmi &lt;= 22.9 &amp;&amp; bmi &gt;= 18.5">
+                                        <then>
+                                            <output expression="&quot;You are slim&quot;" newline="True"/>
+                                        </then>
+                                        <else>
+                                            <if expression="bmi &lt;= 18.4 &amp;&amp; bmi &gt;= 10">
+                                                <then>
+                                                    <output expression="&quot;You are underweight&quot;" newline="True"/>
+                                                </then>
+                                                <else>
+                                                    <if expression="bmi &lt; 10">
+                                                        <then>
+                                                            <output expression="&quot;ARE YOU KIDDING ME?&quot;" newline="True"/>
+                                                            <output expression="&quot;Please Check Your Input BMI&quot;" newline="True"/>
+                                                        </then>
+                                                        <else/>
+                                                    </if>
+                                                </else>
+                                            </if>
+                                        </else>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

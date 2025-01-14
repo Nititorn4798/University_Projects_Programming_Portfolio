@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-13 03:32:05 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0xMzswMzoyMjowMSBQTTsyNzQw"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0xMzswMzozMjowNSBQTTsyOzI4NTQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="rawcarPrice, downpayCarPercent, downpayCarTotal, payCarPrice, carFinanceRate, carFinancePay, installmentYear, installmentPay, totalPay, payPerMonth" type="Real" array="False" size=""/>
+            <declare name="monthformyear" type="Real" array="False" size=""/>
+            <output expression="&quot;Input Car Price : &quot;" newline="True"/>
+            <input variable="rawcarPrice"/>
+            <output expression="&quot;Input Down Percent : &quot;" newline="True"/>
+            <input variable="downpayCarPercent"/>
+            <output expression="&quot;Input Finance Rate Per Year : &quot;" newline="True"/>
+            <input variable="carFinanceRate"/>
+            <output expression="&quot;Input Installment Year : &quot;" newline="True"/>
+            <input variable="installmentYear"/>
+            <assign variable="monthformyear" expression="installmentYear * 12"/>
+            <assign variable="downpayCarTotal" expression="( rawcarPrice * downpayCarPercent ) / 100"/>
+            <assign variable="payCarPrice" expression="rawcarPrice - downpayCarTotal"/>
+            <assign variable="carFinancePay" expression="( payCarPrice * carFinanceRate ) / 100"/>
+            <assign variable="installmentPay" expression="carFinancePay * installmentYear"/>
+            <assign variable="totalPay" expression="payCarPrice + installmentPay"/>
+            <assign variable="payPerMonth" expression="totalPay / monthformyear"/>
+            <output expression="&quot;Pay Per Month = &quot; &amp; payPerMonth" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2565-12-06 02:03:32 PM"/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMjowMjoyMCBQTTsyNzQw"/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLU00TVM5NEM7MjU2NS0xMi0wNjswMjowMzozMiBQTTsxOzI4NTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Years, Days" type="Integer" array="False" size=""/>
+            <input variable="Years"/>
+            <assign variable="Days" expression="Years * 365"/>
+            <output expression="&quot;Days = &quot; &amp; Days" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
