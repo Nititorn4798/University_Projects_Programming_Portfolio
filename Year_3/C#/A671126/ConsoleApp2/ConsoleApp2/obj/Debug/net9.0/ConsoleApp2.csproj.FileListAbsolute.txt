@@ -1,0 +1,14 @@
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+K:\Dev\Coding\CSharp\A671126\ConsoleApp2\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll

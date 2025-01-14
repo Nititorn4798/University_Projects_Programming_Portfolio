@@ -1,0 +1,14 @@
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+K:\Dev\Coding\CSharp\A671126\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
