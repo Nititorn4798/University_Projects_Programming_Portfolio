@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinAppGradeBasic/1.0.0": {
+        "runtime": {
+          "WinAppGradeBasic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinAppGradeBasic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
