@@ -1,0 +1,16 @@
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\bin\Debug\net8.0-windows\WinAppName.exe
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\bin\Debug\net8.0-windows\WinAppName.deps.json
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\bin\Debug\net8.0-windows\WinAppName.runtimeconfig.json
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\bin\Debug\net8.0-windows\WinAppName.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\bin\Debug\net8.0-windows\WinAppName.pdb
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.FormHome.resources
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.csproj.GenerateResource.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.GeneratedMSBuildEditorConfig.editorconfig
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.AssemblyInfoInputs.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.AssemblyInfo.cs
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.csproj.CoreCompileInputs.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\refint\WinAppName.dll
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.pdb
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\WinAppName.genruntimeconfig.cache
+K:\Dev\Coding\CSharp\VS2022\CSharp\repos\WinAppName\WinAppName\obj\Debug\net8.0-windows\ref\WinAppName.dll
